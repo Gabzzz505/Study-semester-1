@@ -2,9 +2,9 @@
 
 int main()
 {
-	int main;
-	scanf("%d", &main);
-	printf("%d\n", main);
+	int asing;
+	scanf("%d", &asing);
+	printf("%d\n", asing);
 	printf("presiden pintar\n");
 	return 0;
 }
