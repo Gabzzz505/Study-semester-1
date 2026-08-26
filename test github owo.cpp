@@ -5,6 +5,6 @@ int main()
 	int owo;
 	scanf("%d", &owo);
 	printf("%d\n", owo);
-	printf("saya akan lawan\n");
+	printf("hey antek antek asing\n");
 	return 0;
 }
